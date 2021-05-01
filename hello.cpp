@@ -5,6 +5,9 @@ void showsomemthing(){
     cout << "something\n";
 }
 
-int main(){
+int main()
+{
     cout<<"hello";
+    int n=6;
+    cout<<n<<endl;
 }
