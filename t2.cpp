@@ -1,10 +1,6 @@
 #include <iostream>
 using namespace std;
 
-void showsomemthing(){
+void showsomemthing3(){
     cout << "something\n";
-}
-
-int main(){
-    cout<<"hello";
 }
